@@ -1,0 +1,15 @@
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 A
+7 B
+8 C
+9 D
+10 E
+11 I Love You
+12 Rock
+13 Paper
+14 Scissor
